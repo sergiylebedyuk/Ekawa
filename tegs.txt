@@ -36,7 +36,7 @@ ayran_onur_turkish_500					Онур Айран турецький, 0,500
  
 apple_packed_4_pcs					Яблуко фасоване, 4шт
  
-banana_packed_3_pcs					Банан фасований, 3 шт
+drink_royal_club_chorna_smorodyna_bezalkogolnyi_gazovanyi_330		Напій Royal Club «Чорна смородина» безалкогольний газований 0.33л
  
 kabanos_dmytruk_one_bite_chesse_chicken_cheese_w_c_5	Кабаноси «Дмитрук» One Bite Chesse курячі з сиром в/к, 0,05
  
@@ -51,6 +51,11 @@ carbonated_drink_chupa_chups_orange_345		Напій газований Chupa Chu
 drink_dr_pepper_regular_330				Напій Dr.Pepper Regular, 0,33
  
 nonalcoholic_drink_club_mate_330			Напій безалкогольний Club-Mate 0,330 
+
+sumish_gorikhova_winway_vitaminna_100		Суміш горіхова Winway «Вітамінна» 100г
+
+drink_fritz_kola_klasychnyi_gazovanyi_330		Газований напій кола класичний Fritz Kola 330мл
+
 black_box							Запіканка сирна з лохиною  0,250
 								Налисники з сиром  0,190
 								Сирники з родзинками  0,225
@@ -59,4 +64,7 @@ molokiya							Молокія, Йогурт білий питний, 1,6%, 0,250
 								Молокія, кефір 2,5%, 0,250
 black_sandwich						Сендвіч з куркою "Meal Time"  0,185
 								Сендвіч з запеченою яловичиною  0,180
-
+drink_zb  							Напій Royal Club «Чорна смородина» безалкогольний газований 0.33л
+								Напій енергетичний Non Stop Original, безалкогольний, 0,25 л
+								Напій газований Chupa Chups апельсин 0,345
+								Напій Dr.Pepper Regular, 0,33
