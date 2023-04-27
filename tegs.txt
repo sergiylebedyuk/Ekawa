@@ -53,9 +53,12 @@ drink_dr_pepper_regular_330				Напій Dr.Pepper Regular, 0,33
 nonalcoholic_drink_club_mate_330			Напій безалкогольний Club-Mate 0,330 
 
 sumish_gorikhova_winway_vitaminna_100		Суміш горіхова Winway «Вітамінна» 100г
-sumish_gorikhiv_sukhofruktiv_almond_solodka_200	Суміш горіхів та сухофруктів Almond солодка 200г
+
+sumish_gorikhiv_sukhofruktiv_almond_solodka_200	Суміш горіхів та сухофруктів Almond солодка 200г 83,99грн
 
 drink_fritz_kola_klasychnyi_gazovanyi_330		Газований напій кола класичний Fritz Kola 330мл
+
+slaisy_globyno_na_khodu_kuriatyna_50		Слайси «Глобино» «На ходу» з курятини 50г 50,49грн
 
 black_box							Запіканка сирна з лохиною  0,250
 								Налисники з сиром  0,190
