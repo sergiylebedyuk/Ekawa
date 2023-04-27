@@ -7,3 +7,8 @@ drink_fritz_kola_klasychnyi_gazovanyi_330
 drink_zb
 water_krayna_noncarbonated_500
 water_krayna_carbonated_500
+molokiya
+ayran_onur_turkish_500
+apple_packed_4_pcs
+sumish_gorikhova_winway_vitaminna_100
+

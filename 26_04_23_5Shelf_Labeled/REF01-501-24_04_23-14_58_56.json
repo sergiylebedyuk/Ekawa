@@ -83,7 +83,7 @@
       "flags": {}
     },
     {
-      "label": "drink_fritz_kola_klasychnyi_gazovanyi_33",
+      "label": "drink_fritz_kola_klasychnyi_gazovanyi_330",
       "points": [
         [
           272.0,
@@ -99,7 +99,7 @@
       "flags": {}
     },
     {
-      "label": "drink_fritz_kola_klasychnyi_gazovanyi_33",
+      "label": "drink_fritz_kola_klasychnyi_gazovanyi_330",
       "points": [
         [
           552.0571428571429,
@@ -115,15 +115,15 @@
       "flags": {}
     },
     {
-      "label": "drink_fritz_kola_klasychnyi_gazovanyi_33",
+      "label": "drink_fritz_kola_klasychnyi_gazovanyi_330",
       "points": [
         [
-          645.9989648033127,
-          159.7567287784679
+          644.7794526081907,
+          163.41526536383378
         ],
         [
-          681.4285714285714,
-          178.52380952380952
+          680.2090592334495,
+          182.1823461091754
         ]
       ],
       "group_id": null,
@@ -131,7 +131,7 @@
       "flags": {}
     },
     {
-      "label": "drink_fritz_kola_klasychnyi_gazovanyi_33",
+      "label": "drink_fritz_kola_klasychnyi_gazovanyi_330",
       "points": [
         [
           347.2,
@@ -147,15 +147,15 @@
       "flags": {}
     },
     {
-      "label": "drink_fritz_kola_klasychnyi_gazovanyi_33",
+      "label": "drink_fritz_kola_klasychnyi_gazovanyi_330",
       "points": [
         [
           608.2919254658386,
-          187.99171842650102
+          192.86976720698883
         ],
         [
           646.3095238095239,
-          211.26190476190476
+          216.13995354239256
         ]
       ],
       "group_id": null,
