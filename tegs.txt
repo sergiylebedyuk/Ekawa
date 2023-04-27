@@ -54,7 +54,7 @@ nonalcoholic_drink_club_mate_330			Напій безалкогольний Club-
 
 sumish_gorikhova_winway_vitaminna_100		Суміш горіхова Winway «Вітамінна» 100г
 
-drink_fritz_kola_klasychnyi_gazovanyi_330		Газований напій кола класичний Fritz Kola 330мл
+fritz_kola							Газований напій кола класичний Fritz Kola 330мл
 
 black_box							Запіканка сирна з лохиною  0,250
 								Налисники з сиром  0,190
