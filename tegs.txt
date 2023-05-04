@@ -1,87 +1,21 @@
-Список тегів ФОП Яців С.В. Ekawa
-
-chicken_burger_xl_210					Чікен-бургер XL 0,210
- 
-beef_burger_meal_time_texas_on_coal			Біф-бургер «Техас», ТМ «Meal Time», «на вугіллі»
- 
-cake_gfs_honey_120					Торт "Медовий" 0,120 GFS (6)
- 
-cake_original_festory_cheesecake_new_york_130	Торт оригінальний "Чізкейк Нью-Йорк" 0,130 (6) TM Festory
- 
-sponge_cake_gfs_zaher_100				Торт бісквітний "Захер" 0,100 GFS
- 
-cheese_pudding_blueberries_250			Запіканка сирна з лохиною  0,250
- 
-nalisniki_cheese_190					Налисники з сиром  0,190
- 
-cheesecakes_raisins_225					Сирники з родзинками  0,225
- 
-sandwich_meal_time_chicken_185			Сендвіч з куркою "Meal Time"  0,185
- 
-sandwich_baked_beef_180					Сендвіч з запеченою яловичиною  0,180
- 
-noodles_gfs_stirfry_chicken_220			Локшина з куркою stir-fry 0,220 NEW BOX GFS
- 
-pasta_gfs_bolognese_basil_220				Паста Болоньєзе з базиліком 0,220 NEW BOX GFS
- 
-borscht_festory_ukrainian_meat_300 			Борщ по-українські з м'ясом 0,300 Festory
- 
-yogurt_molokiya_white_1_6_percent_250		Молокія, Йогурт білий питний, 1,6%, 0,250
- 
-yogurt_molokiya_strawberry_1_4_percent_250	Молокія, йогурт полуниця, 1,4%, 0,250
- 
-kefir_molokiya_2_5_percent_250			Молокія, кефір 2,5%, 0,250
- 
-ayran_onur_turkish_500					Онур Айран турецький, 0,500
- 
-apple_packed_4_pcs					Яблуко фасоване, 4шт
- 
-drink_royal_club_chorna_smorodyna_bezalkogolnyi_gazovanyi_330		Напій Royal Club «Чорна смородина» безалкогольний газований 0.33л
- 
-kabanos_dmytruk_one_bite_chesse_chicken_cheese_w_c_5	Кабаноси «Дмитрук» One Bite Chesse курячі з сиром в/к, 0,05
- 
-water_krayna_noncarbonated_500			Вода "Крайна" н/г, 0,5л
- 
-water_krayna_carbonated_500				Вода "Крайна" сл/г, 0,5л
- 
-energy_drink_non_stop_original_nonalcoholic_250	Напій енергетичний Non Stop Original, безалкогольний, 0,25 л
- 
-carbonated_drink_chupa_chups_orange_345		Напій газований Chupa Chups апельсин 0,345
- 
-drink_dr_pepper_regular_330				Напій Dr.Pepper Regular, 0,33
- 
-nonalcoholic_drink_club_mate_330			Напій безалкогольний Club-Mate 0,330 
-
-sumish_gorikhova_winway_vitaminna_100		Суміш горіхова Winway «Вітамінна» 100г
-
-sumish_gorikhiv_sukhofruktiv_almond_solodka_200	Суміш горіхів та сухофруктів Almond солодка 200г 83,99грн
-
-drink_fritz_kola_klasychnyi_gazovanyi_330		Газований напій кола класичний Fritz Kola 330мл
-
-slaisy_globyno_na_khodu_kuriatyna_50		Слайси «Глобино» «На ходу» з курятини 50г 50,49грн
-
-black_box							Запіканка сирна з лохиною  0,250
-								Налисники з сиром  0,190
-								Сирники з родзинками  0,225
-molokiya							Молокія, Йогурт білий питний, 1,6%, 0,250
-								Молокія, йогурт полуниця, 1,4%, 0,250
-								Молокія, кефір 2,5%, 0,250
-black_sandwich						Сендвіч з куркою "Meal Time"  0,185
-								Сендвіч з запеченою яловичиною  0,180
-drink_zb  							Напій Royal Club «Чорна смородина» безалкогольний газований 0.33л
-								Напій енергетичний Non Stop Original, безалкогольний, 0,25 л
-								Напій газований Chupa Chups апельсин 0,345
-								Напій Dr.Pepper Regular, 0,33
-Перелік кавових напоїв		
-Еспресо			Espresso			25
-Еспресо з молоком		Espresso with milk	25
-Американо			Americano			30
-Американо з молоком	Americano with milk	30
-Макіато			Macchiatto			35
-Мокачино			Moccachino			35
-Капучино			Cappuchino			35
-Лате				Latte				35
-Шоколад			Chocolate			35
-Молочний шоколад		Chocolate with milk	35
-Шоколате			Choco latte			35
-Гаряче молоко		Hot milk			20
+borscht_festory_ukrainian_meat_300
+pasta_gfs_bolognese_basil_220
+noodles_gfs_stirfry_chicken_220
+black_box
+beef_burger_meal_time_texas_on_coal
+chicken_burger_xl_210
+black_sandwich
+kabanos_dmytruk_one_bite_chesse_chicken_cheese_w_c_5
+slaisy_globyno_na_khodu_kuriatyna_50
+sponge_cake_gfs_zaher_100
+cake_original_festory_cheesecake_new_york_130
+cake_gfs_honey_120
+molokiya
+ayran_onur_turkish_500
+apple_packed_4_pcs
+sumish_gorikhiv_sukhofruktiv_almond_solodka_200
+drink_zb
+nonalcoholic_drink_club_mate_330
+drink_fritz_kola_klasychnyi_gazovanyi_330
+water_krayna_carbonated_500
+water_krayna_noncarbonated_500
